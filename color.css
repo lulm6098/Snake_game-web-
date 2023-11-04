@@ -1,0 +1,19 @@
+.canvas {
+    background: black;
+}
+
+.score {
+    position: absolute;
+    left: 450px;
+    margin-top: 0px;
+}
+
+#score {
+    padding: 4px 10px;
+}
+
+h1 {
+    margin: -11px -8px;
+    background: moccasin;
+    border: 3px dotted blueviolet;
+}
